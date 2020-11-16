@@ -4,8 +4,9 @@
     android:layout_height="match_parent">
 
     <TextView
+        android:id="@+id/right"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="500dp"
         android:text="Fragmanet direito"
         android:gravity="center"
         android:background="@android:color/holo_purple"/>
